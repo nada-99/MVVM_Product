@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MVVM Product</string>
+    <string name="all_products">Get All Products</string>
+    <string name="fav_products">Get Favourite Products</string>
+    <string name="exit">Exit</string>
+    <string name="addButton">Add To Favourite</string>
+    <string name="deleteButton">Delete From Fav.</string>
+</resources>
